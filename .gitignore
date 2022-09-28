@@ -1,0 +1,17 @@
+# test file
+test*
+*.txt
+*.json
+
+
+# python compile file
+__pycache__/
+
+# log file
+*.log
+
+# middle result
+past/
+
+# mac 
+.DS_Store
